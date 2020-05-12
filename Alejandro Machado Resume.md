@@ -1,14 +1,15 @@
 # Alejandro Machado Perezlindo
-> Muller 221 PB, Temperley, Buenos Aires, Argentina – ZIP Code: 1834 
+> Muller 221 PB, Temperley, Buenos Aires, Argentina – ZIP Code: 1834
+
 > Home: +54.11.2067.6401
+
 > Cellphone: +54.11.9.5178.4800
+
 > alejandro.machado@gmail.com
 
 ***
 
 ## Experience
-
----
 
 ### **Director of Data**
 
@@ -132,7 +133,6 @@
 >> - DTS
 >> - C#
 
-
 ### **Software Developer**
 
 *September 2006 – October 2007*
@@ -145,4 +145,21 @@
 > -  Technologies used: 
 >> - Sybase
 >> - 4th Dimension
+
+***
+
+## Education
+
+### Universidad Abierta Interamericana, Buenos Aires
+*2007-2011 (Abandoned)*
+
+**Computer Science Engineer**
+
+60% completed
+
+### Instituto Tecnológico San Bonifacio, Lomas de Zamora, Buenos Aires
+*2000-2004*
+
+**Electronics Technician**
+
 
