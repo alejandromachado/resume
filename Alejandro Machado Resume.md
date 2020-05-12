@@ -1,10 +1,10 @@
 # Alejandro Machado Perezlindo
 > Muller 221 PB, Temperley, Buenos Aires, Argentina – ZIP Code: 1834
-
+>
 > Home: +54.11.2067.6401
-
+>
 > Cellphone: +54.11.9.5178.4800
-
+>
 > alejandro.machado@gmail.com
 
 ***
@@ -151,15 +151,15 @@
 ## Education
 
 ### Universidad Abierta Interamericana, Buenos Aires
-*2007-2011 (Abandoned)*
-
-**Computer Science Engineer**
-
-60% completed
+> *2007-2011 (Abandoned)*
+>
+> **Computer Science Engineer**
+>
+> 60% completed
 
 ### Instituto Tecnológico San Bonifacio, Lomas de Zamora, Buenos Aires
-*2000-2004*
-
-**Electronics Technician**
+> *2000-2004*
+>
+> **Electronics Technician**
 
 
